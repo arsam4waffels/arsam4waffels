@@ -26,11 +26,14 @@ A simple painting application developed for my university project.
 
 Built with focus on understanding graphics, user interaction, and software design.
 
+### 🔄 Mirosync *(In Development)*
+
+A Java-based file management application designed to help users organize, synchronize, and manage their files.
+
+Focused on improving file organization, security, and creating a more reliable way to handle personal data.
 
 ## 💭 Philosophy
 
-> "I am not smarter than everyone else.  
-> I am just an ordinary person who kept trying harder."
-
+> "I am not smarter than everyone else. I am just an ordinary person who kept trying harder."
 
 _Always learning. Always building._
