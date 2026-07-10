@@ -32,7 +32,7 @@ A Java-based file management application designed to help users organize, synchr
 
 Focused on improving file organization, security, and creating a more reliable way to handle personal data.
 
-### ✨ Humanizer *(Currently Working On)*
+### ✨ Humanizer *(In Development)*
 
 A Java-based text processing application that transforms AI-generated content into more natural and human-like writing.
 
