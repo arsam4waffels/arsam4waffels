@@ -1,4 +1,4 @@
-# Sup , I'm Arsam 👋
+ Sup , I'm Arsam 👋
 
 🎓 Computer Engineering Student
 
@@ -26,7 +26,7 @@ A simple painting application developed for my university project.
 
 Built with focus on understanding graphics, user interaction, and software design.
 
-### 🔄 Mirosync *(In Development)*
+### 📁 Mirosync *(In Development)*
 
 A Java-based file management application designed to help users organize, synchronize, and manage their files.
 
